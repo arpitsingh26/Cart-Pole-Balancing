@@ -1,4 +1,8 @@
-# Brief description of INAC and What it does:
+# Brief Description:
+
+In this, we implemented Actor-Critic algorithm for the cart pole to learn balancing itself using sequential feedback. Also worked on finding hyperparameters to make the agent learn as quickly as possible from the environment.
+
+# INAC and What it does:
 
 Incremental Natural Actor Critic (INAC) algorithm is a variant of Actor Critic
 algorithm in which the weight vector w is used which is incrementally updated
